@@ -1,0 +1,41 @@
+Choosing the right career path is one of the most critical challenges faced by Computer Science and Engineering (CSE) students. Traditional career guidance methods rely heavily on academic scores, counselor opinions, and static information, which often fail to consider individual skills, interests, experience, and rapidly changing industry trends.
+
+The AI-Enhanced Career Guidance System is a machine learning–based intelligent recommendation system designed to provide personalized, data-driven career suggestions for CSE and technology-oriented students. By leveraging supervised machine learning techniques, feature engineering, and structured preprocessing, the system predicts suitable career roles based on a user’s technical profile.
+
+Objectives:
+
+To eliminate bias and subjectivity in traditional career counseling
+
+To handle data dependency by using multiple informative features
+
+To address user diversity through personalized recommendations
+
+To provide scalable and automated career guidance using ML
+
+To help students make informed career decisions aligned with their skills and interests
+
+Technologies Used: 
+
+Programming Language: Python
+
+Libraries & Frameworks:
+
+scikit-learn
+
+pandas
+
+matplotlib
+
+seaborn
+
+Machine Learning Algorithm: Decision Tree Classifier
+
+Model Serialization: Pickle
+
+Preprocessing Techniques: 
+
+Feature Engineering: Domain extraction from textual data
+
+Label Encoding: Conversion of categorical features into numerical format
+
+Train–Test Split: For unbiased model evaluation
